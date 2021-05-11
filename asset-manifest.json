@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.904f039f.chunk.css",
-    "main.js": "./static/js/main.dd49c502.chunk.js",
-    "main.js.map": "./static/js/main.dd49c502.chunk.js.map",
+    "main.css": "./static/css/main.bc1c4e1a.chunk.css",
+    "main.js": "./static/js/main.57b5360e.chunk.js",
+    "main.js.map": "./static/js/main.57b5360e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9d58dddd.js",
     "runtime-main.js.map": "./static/js/runtime-main.9d58dddd.js.map",
     "static/css/2.3396d284.chunk.css": "./static/css/2.3396d284.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.b3bb040f.chunk.js.map": "./static/js/2.b3bb040f.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.3396d284.chunk.css.map": "./static/css/2.3396d284.chunk.css.map",
-    "static/css/main.904f039f.chunk.css.map": "./static/css/main.904f039f.chunk.css.map",
+    "static/css/main.bc1c4e1a.chunk.css.map": "./static/css/main.bc1c4e1a.chunk.css.map",
     "static/js/2.b3bb040f.chunk.js.LICENSE.txt": "./static/js/2.b3bb040f.chunk.js.LICENSE.txt",
     "static/media/loadfont.css": "./static/media/TsukushiAMaruGothicBold.eac76ec0.otf",
     "static/media/airplane.c97f8c12.svg": "./static/media/airplane.c97f8c12.svg",
@@ -46,7 +46,7 @@
     "static/js/runtime-main.9d58dddd.js",
     "static/css/2.3396d284.chunk.css",
     "static/js/2.b3bb040f.chunk.js",
-    "static/css/main.904f039f.chunk.css",
-    "static/js/main.dd49c502.chunk.js"
+    "static/css/main.bc1c4e1a.chunk.css",
+    "static/js/main.57b5360e.chunk.js"
   ]
 }
